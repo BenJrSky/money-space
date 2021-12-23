@@ -1,0 +1,15 @@
+{
+  "pageTitle": "ติดต่อเรา",
+  "pageSubtitle": "บริษัท มันนี่ สเปซ จำกัด",
+  "title": "วันและเวลาทำการ",
+  "data": "จันทร์ - ศุกร์ เวลา 08.30 - 17.30 น.",
+  "contactsList": [
+    "th@moneyspace.net",
+    "02-118-3082"
+  ],
+  "contactsListEmail": "th@moneyspace.net",
+  "locationBlock": {
+    "title": "กรุงเทพมหานคร",
+    "content": "เลขที่ 1 อาคารกลาสเฮ้าส์ ชั้น P Unit P01 ซ.สุขุมวิท 25 วัฒนา"
+  }
+}

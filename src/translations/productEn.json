@@ -1,0 +1,62 @@
+{
+    "ProductPage":{
+        "FinancialFlexibility": "Financial Flexibility",
+        "AtYourFingertips": "Accept Credit Card & Debit Card Payment",
+        "AllYourOnlinePayment": "Support all major credit cards with international standard of security for speed, convenience, and ease of use. The perfect solution for the new generation’s shopping lifestyle.",
+        "AcceptForeignCurrency": "Support 27 Foreign Currencies",
+        "AsWellAsAcceptingPayments": "Expand your customers on a global scale with support for 27 foreign currencies and increased convenience with accounting report program that automatically converts foreign currency payments to Thai Baht.",
+        "HighSpeedPaymentProcessing": "Never Worry About System Updates",
+        "OurPlatformIsArchitected": "As a completely online solution that caters to digital businesses, shopkeepers can forget about complicated system updates and maintenance. Just sign up, create and share a payment link to receive money quickly and easily. Let us do the heavy lifting.",
+        "Installment":{
+            "bold": "Accept Installments",
+            "h1": "Increase Sales",
+            "h5": "Increase your sales opportunities by allowing your customers to pay in full or credit card installments. Break up big payments and give your customers more freedom.",
+            "h4": "Offer the 0% installment plan"
+        },
+        "MonthlyPaymentOptions": "Get Paid In Full When Customers Choose Installments",
+        "OfferFlexiblePayment": "Your customers can choose between 3 and 36 monthly credit card installments at attractive rates so shoppers have more freedom while you receive your sales amount in full. It’s a win-win.",
+        "CardBrand": "Credit Card & Installment Interest Rates",
+        "KTC": "KTC",
+        "KrungsriFirstChoice": "Krungsri First Choice",
+        "KrungsriCard": "Krungsri Card",
+        "InstallmentTermLengths": {
+            "text": "Installment Duration",
+            "KTC": "3, 4, 5, 6, 7, 8, 9, 10",
+            "KrungsriFirstChoice": "3, 4, 6, 9, 10, 12, 18, 24, 36",
+            "KrungsriCard": "3, 4, 6, 9, 10"
+        },
+        "MonthlyMinimum":{
+            "text1": "Monthly",
+            "text2": "minimum",
+            "KTC": "300",
+            "KrungsriFirstChoice": "300",
+            "KrungsriCard": "500"
+        },
+        "InterestAbsorbedCustomer":{
+            "text": "Minimum Transaction Value Per Month",
+            "KTC": "0.8%",
+            "KrungsriFirstChoice": "1%",
+            "KrungsriCard": "0.74%"
+        },
+        "InterestAbsorbedMerchant":{
+            "text": "Interest absorbed customer",
+            "KTC": "2.10%",
+            "KrungsriFirstChoice": "2.20%",
+            "KrungsriCard": "2.20%"
+        },
+        "GetPaidIn": "Accept Promptpay and QR Code Payment",
+        "3simpleSteps": "Accept all mobile banking.",
+        "UserScansOrUploadsTheQR": "Mobile banking payment or scan QR Code to pay",
+        "TheUserScansOrUploads": "The user scans or uploads the QR code using their mobile banking application",
+        "UserConfirmsPayment": "Verify payment and current total value",
+        "TheUserVerifies": "The user verifies the payment amount that has already been pre-filled and confirms payment",
+        "YouReceiveFunds": "Real-time shopkeeper notification",
+        "FundsAreInstantly": "Funds are instantly transferred from the user's bank account into your MoneySpace account",
+        "UnifiedReportingDashboard": "Dashboard Reporting",
+        "AllTransactionsAreConsolidated": "Convenient and comprehensive with an information management system that keeps all of your transaction records in one place. Find every transaction at the touch of your finger. Access every detail with deep information storage. Download past records at any time and any place.",
+        "EliminateFrictionAtCheckout": "Intuitive User-Friendly Interface For The Thai Consumers’ Lifestyle",
+        "CustomersCanMakePayments": "Make transactions easier and more flexible with a simple payment interface and coherent button labels. With convenience for every payment methods and easy monthly-installments fee comparison for multiple credit cards."
+
+
+    }
+}

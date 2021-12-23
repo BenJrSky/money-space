@@ -1,0 +1,15 @@
+{
+  "pageTitle": "Contact Us",
+  "pageSubtitle": "Money space (Company Limited)",
+  "title": "Opening hours:",
+  "data": "From Monday to Friday. 08.30-17.30 hrs.",
+  "contactsList": [
+    "th[at]moneyspace.net",
+    "02-118-3082"
+  ],
+  "contactsListEmail": "th@moneyspace.net",
+  "locationBlock": {
+    "title": "Bangkok",
+    "content": "No.1 Glas Haus Building. Level P. Unit P01. Sukhumvit 25. Vadhana. Bangkok."
+  }
+}

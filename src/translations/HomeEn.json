@@ -1,0 +1,155 @@
+{
+  "header": {
+    "logo": "money space",
+    "signup": "signup",
+    "menu": "Menu",
+    "nav": {
+      "payment": "Payment Links",
+      "product": "Product",
+      "pricing": "Pricing & Plans",
+      "contact-us": "Contact Us",
+      "language": {
+        "title": "Language",
+        "thai": "Thailand",
+        "eng": "English"
+      }
+    }
+  },
+  "slogan1": "Accepting credit cards online just got easier!",
+  "slogan2": "Get more value with flexible online payment methods. Support for credit card payment and other channels. Increased competitive edge. Earn profit in the age of digital transactions with lowest fees.",
+  "title": "Create payment link",
+  "startSection": {
+    "signup": "Register for free",
+    "createLinkForm": {
+      "title": "Create payment link",
+      "subtitle": "You can set details and send links to your customers.",
+      "proServiceLabel": "Product / Service Name: ",
+      "proServiceValue": "iPhone 8 / 32gb",
+      "amountLabel": "Amount ( ฿ )",
+      "amountValue": "25,000",
+      "card": "Credit / Debit Card",
+      "submit": "Create Payment Link"
+    },
+    "createLinkCard": {
+      "title": "iPhone 8 / 32gb",
+      "cost": "$25,000",
+      "pay": "Pay"
+    },
+    "createLinkPayForm": {
+      "checkout": "Check Out Demo",
+      "subTitle": "powered by",
+      "title": "money space",
+      "cardNoLabel": "Card Number",
+      "cardNoValue": "1123 2000 3200 2391",
+      "expDateLabel": "Exp Date",
+      "expDateValue1": "08",
+      "expDateValue2": "2020",
+      "cvcLabel": "CVC",
+      "cvcValue": "032",
+      "card": "Credit / Debit Card",
+      "submit": "PAY NOW",
+      "way": "On your way"
+    }
+  },
+  "mainAbout": {
+    "left": {
+      "productNameLabel": "Product Name",
+      "productNameValue": "iPhone 8 - Black",
+      "priceLabel": "Price",
+      "priceValue": "$600",
+      "payLabel1": "space.",
+      "payLabel2": "pay",
+      "payValue": "22010"
+    },
+    "right": {
+      "title1": "The Solution for Your E-Commerce Businesses",
+      "title2": " Pay-by-Link",
+      "content": "Accept payment through all of your shop’s social media platforms. Create and share links with real-time results for convenience anytime & anywhere."
+    }
+  },
+  "advantages": {
+    "item1": {
+      "title1": "Safety Guaranteed with Anti-Fraud Machine Learning Technology",
+      "title2": "",
+      "content": "Security monitoring is always on the lookout for fraudulent behaviour using intelligent privacy protection systems to make sure your information and business is safe 24 hours per day."
+    },
+    "item2": {
+      "title1": "Lowest Fees & No Hidden Fees",
+      "title2": "Price",
+      "content": "Keep your profit in every transaction with free connection service and free subscription. There are no hidden fees."
+    },
+    "item3": {
+      "title1": "Accept Payments Through Any Platforms",
+      "title2": "options",
+      "content": "Let your customers pay where they want. Payment processing is available on every channels for both online shops and physical shops. Process every order. Never miss a trade."
+    },
+    "item4": {
+      "title1": "Confidence of International Safety Standards",
+      "title2": "a Culture",
+      "content": "Money Space has received the PCI DSS Certificate (Payment Card Industry Data Security Standard). It is the golden safety standard for credit card payment processing businesses to ensure systems stability and the safety of credit card information.’"
+    }
+  },
+  "mainInfo": {
+    "title": "Connect Effectively and Effortlessly",
+    "content": {
+      "item1": {
+        "value": "Decrease the time and cost of managing your payment channels by connecting the API of the shopping cart and the payment processor effectively. Many apps are available for developers to experiment. Our popular plugins include WooCommerce, Magento, and Opencart."
+      },
+      "item2": {
+        "label": "Manage Your Transaction at International Standards",
+        "value": "Send and receive money with confidence for you and your customers with international level transaction security. Money Space is a verified business with official permit for providing payment processing services under the Bank of Thailand and is also guaranteed with PCI DSS Certificate (Payment Card Industry Data Security Standard) to ensure low risk of credit card information leakage. More importantly, our data storage, computer systems, and firewall is protected with SSL 2048"
+      }
+    },
+    "security1": "PCI DSS ",
+    "security2": "Bank of Thailand",
+    "animation": {
+      "website": "Website",
+      "payment": "Payment",
+      "api": "API"
+    }
+  },
+  "joinSection": {
+    "title": "Lowest Fees with Highest Care for Maximum Safety.",
+    "content": "Accept payments with Money Space.",
+    "start": "Sign up now"
+  },
+  "footer": {
+    "productArea": {
+      "title": "Products",
+      "products": [
+        "Pay-By-Link",
+        "Simple API"
+      ]
+    },
+    "featureArea": {
+      "title": "Features",
+      "features": [
+        "Dash Board and Check out",
+        "Payments methods",
+        "Integrations",
+        "Security",
+        "Checkout",
+        "Invoice Payments"
+      ]
+    },
+    "moneySpaceArea": {
+      "title": "Money Space",
+      "moneySpaces": [
+        "About Us",
+        "Compliance",
+        "Contact",
+        "Media",
+        "Privacy Notice"
+      ]
+    },
+    "faqArea": {
+      "title": "FAQs",
+      "faqs": [
+        "Prohibit Businesses",
+        "Facebook",
+        "Instagram",
+        "Youtube"
+      ]
+    }
+  }
+}

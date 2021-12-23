@@ -1,0 +1,46 @@
+{
+  "demoPage": {
+    "pageTitle": "การสาธิต",
+    "productCard": {
+      "name": "Apple Watch Series 5 Hermes ",
+      "description": "Series 5 Apple Watch Hermes ตัวเรือน 44 มม. ทำจากสแตนเลสสตีล Space Black & Rallye single tour band ใน Black Gala Calfskin …",
+      "more": "อ่านเพิ่มเติม"
+    },
+    "item": [
+      {
+        "title": "รายละเอียดสินค้า",
+        "para": [
+          "รายละเอียดสินค้า",
+          "รายละเอียดสินค้า",
+          "รายละเอียดสินค้า"
+        ]
+      },
+      {
+        "title": "การดูแล",
+        "para": [
+          "การดูแล"
+        ]
+      },
+      {
+        "title": "การจัดส่งและการคืนสินค้า",
+        "para": [
+          "การจัดส่งและการคืนสินค้า"
+        ]
+      },
+      {
+        "title": "การให้ของขวัญ",
+        "para": [
+          "การให้ของขวัญ"
+        ]
+      }
+    ],
+    "buy": {
+      "text": "ชำระเงินด้วย Money Space",
+      "cost1": "฿",
+      "cost2": "37230"
+    },
+    "back": {
+      "text": "กลับไปที่คำแนะนำ API"
+    }
+  }
+}

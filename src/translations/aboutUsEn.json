@@ -1,0 +1,23 @@
+{
+  "aboutPage": {
+    "header": {
+      "pageTitle": "About us.",
+      "info1": "There are always conditions and difficulties when registering and using online payment systems. From requiring collateral amount, paying service fees, having high transaction fees of 3% or more (which ends up becoming additional cost for your business), complicated existing regulations, and confusing communication of financial institutions. All of this leads to the nuisance of credit card chargeback. - ",
+      "info2": "More Options. More Payments. More Success."
+    },
+    "aboutInfo": {
+      "left": {
+        "title": "100% Independent",
+        "text": "Money Space was founded on the mission to 'optimize cash flow in online payment for shop owners', including upfront set up costs, transaction fees on all payment channels, and any payment system-related operation costs. , so that shops of all sizes on all platforms can easily access an online payment system with advanced technology and security with no complicated conditions to find more opportunities with a business edge for global brand growth."
+      },
+      "right": {
+        "quote": " Money Space have invested greatly on payment security and doubled down on product research to develop an effective, full-service payment gateway that works on all platforms to offer the best solutions and solve every difficulties for business owners because we believe that an online payment system that works well is the key to a successful business."
+      }
+    },
+    "joinSection": {
+      "title": "Money Space Truly Cares",
+      "text": "At Money Space, we stand firm on our position as “a business that do not rely on investors”. Since founding the company, we established, operated, and grew our business with our own efforts, free of interferences and free of conditions. We have never accepted money from investors or stockholders, therefore we are able to cater to your wants & needs completely without having to consider anyone else’s benefit. Efficient payment gateway processing saves cost. With efficient payment gateway processing that gives you the most value in Thailand!",
+      "link": "Start Now"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "linksPage": {
+    "info": "Payment Links",
+    "title": "Create and share payment link conveniently and quickly through social media or email. We support multiple payment methods to minimize transaction fee and avoid development complications.",
+    "steps": [
+      {
+        "id": "1",
+        "content": "Create payment link"
+      },
+      {
+        "id": "2",
+        "content": "Share link with your customer through social media"
+      },
+      {
+        "id": "3",
+        "content": "Customer can open and pay immediately"
+      },
+      {
+        "id": "4",
+        "content": "System notifies successful payment"
+      }
+    ],
+    "linkSectionBuy": {
+      "left": {
+        "title": "Paid link for buyer to fill in.",
+        "subtitle": "You can copy this link to your buyers.",
+        "radioWrap": {
+          "label": "Who is responsible for fee:",
+          "radioList": {
+            "seller": "Seller",
+            "buyer": "Buyer"
+          }
+        },
+        "fieldsWrap": {
+          "label1": "Terms & Conditions",
+          "label2": "I acknowledge that I will NOT claim the refund or cancel the order.",
+          "placeHolder": "I acknowledge that I will NOT claim the refund or cancel the order.",
+          "buyerLink": "MPay Link",
+          "print": "Print",
+          "copyLink": "Copy Link"
+        }
+      },
+      "right": {
+        "subtitle": "Flexible Payment",
+        "title": "Pay-by-Link allows customers to specify the payment value themselves.",
+        "textBlock": "Perfect for e-commerce or shops with multiple products, prices, and orders. Convenience for simple and straightforward payment.",
+        "items": [
+          {
+            "cap": "Benefits",
+            "content": "Merchant don’t need to handle about this payment link much , a payer will fill in by themselves"
+          },
+          {
+            "cap": "Restriction",
+            "content": "If a payer fill in wrongly, or forgot some transportation expense or some extra plans to pay. Will cause more merchant’s back-end system."
+          }
+        ]
+      }
+    },
+    "linkSectionMerch": {
+      "left": {
+        "subtitle": "Most precise",
+        "title": "Accurate Payment",
+        "textBlock": "Pay-by-Link also allows shopkeepers to specify the payment value and product details to safeguard against mistakes, as well as managing stock accurately by checking how many payment links have been created and completed.",
+        "items": [
+          {
+            "cap": "Benefits",
+            "content1": "A payer just only double check the product’s detail before making a payment.",
+            "content2": "A payment link can be counted as per success payment. This can help the stock of products."
+          },
+          {
+            "cap": "Restriction",
+            "content": "A payment link can be used for individual payer only."
+          }
+        ]
+      },
+      "right": {
+        "title": "Get paid shop details",
+        "subtitle": "You can set details and send links to your customers.",
+        "items": [
+          {
+            "label": "Prouduct / Service Name:",
+            "placeholder": "iPhone 8 / 32gb"
+          },
+          {
+            "label": "Amount ( ฿ )",
+            "placeholder": "25,000"
+          }
+        ],
+        "checkList": [
+          {
+            "label": "Credit / Debit Card"
+          },
+          {
+            "label": "Installment payment plan"
+          }
+        ],
+        "radioWrap": {
+          "label": "Responsible free person",
+          "radioList": [
+            {
+              "label": "Seller"
+            },
+            {
+              "label": "Buyer"
+            }
+          ]
+        },
+        "fieldsWrap": {
+          "label1": "Terms & Conditions",
+          "label2": "I acknowledge that I will NOT claim the refund or cancel the order.",
+          "placeHolder": "I acknowledge that I will NOT claim the refund or cancel the order."
+        },
+        "more": {
+          "link": "More Details",
+          "buttonValue": "Create Payment Link"
+        }
+      }
+    },
+    "joinSection": {
+      "info": " No Monthly Fee <br> No Minimum Monthly Transaction <br> No Extra Service Fees <br> No Hidden Fees",
+      "textBlock": "Start accepting payments with Money Space",
+      "link": "Start Now"
+    }
+  }
+}

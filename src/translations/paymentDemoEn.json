@@ -1,0 +1,46 @@
+{
+  "demoPage": {
+    "pageTitle": "Demo",
+    "productCard": {
+      "name": "Apple Watch Series 5 Hermes ",
+      "description": "Series 5 Apple Watch Hermes 44 mm case in Space Black stainless steel & Rallye single tour band in Black Gala calfskin…",
+      "more": "Read more"
+    },
+    "item": [
+      {
+        "title": "Product details",
+        "para": [
+          "Product details",
+          "Product details",
+          "Product details"
+        ]
+      },
+      {
+        "title": "Care",
+        "para": [
+          "Care"
+        ]
+      },
+      {
+        "title": "Delivery & returns",
+        "para": [
+          "Delivery & returns"
+        ]
+      },
+      {
+        "title": "Gifting",
+        "para": [
+          "Gifting"
+        ]
+      }
+    ],
+    "buy": {
+      "text": "Pay with Money Space",
+      "cost1": "฿",
+      "cost2": "37230"
+    },
+    "back": {
+      "text": "Return to API Instructions"
+    }
+  }
+}
